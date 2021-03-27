@@ -1,4 +1,4 @@
 # this is study log！
-hello github
+hello github！
 hello java！
 hello update by others！
